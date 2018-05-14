@@ -1,0 +1,32 @@
+.banner {
+  width: 90%;
+  height: 6em;
+  outline: 1px solid black;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  outline: 4px solid black;
+}
+
+.articles {
+  display: flex;
+  justify-content: space-around;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+.title {
+  display: flex;
+  justify-content: center;
+}
